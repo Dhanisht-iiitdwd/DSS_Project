@@ -1,7 +1,9 @@
 # DSS_Project
-# Group Colaborator: 
+# Group Members: 
 # Daulat Kumar Jha- 20bcs037
 # Dhanisht Kumar Jha-20bcs040
+# Video Presentation Link
+https://drive.google.com/file/d/16vHqcvDYesAQ4-biHCIMRA_tgOqHSBnV/view?usp=drive_link
 
 In this study, we aim to predict wind turbine power production by leveraging wind speed, wind direction, month, and hour data. Our approach combines these key factors to develop a predictive model that enhances wind energy efficiency and aids in grid stability.
 
