@@ -1,7 +1,7 @@
 # DSS_Project
-Group: 
-Daulat Kumar Jha- 20bcs037
-Dhanisht Kumar Jha-20bcs040
+# Group: 
+# Daulat Kumar Jha- 20bcs037
+# Dhanisht Kumar Jha-20bcs040
 
 Wind Turbine Power Prediction
 In this study I am going to predict a wind turbine power production by using the wind speed, wind direction, month and hour data.
